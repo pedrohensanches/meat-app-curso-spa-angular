@@ -1,0 +1,8 @@
+Para iniciar a aplicação
+ng serve ou ng server
+
+Para iniciar o backend - Após implementação da aula de segurança
+nodemon --watch backend backend/dist/server.js
+
+Para iniciar o backend - Antes da implementação da aula de segurança
+json-server db.json
