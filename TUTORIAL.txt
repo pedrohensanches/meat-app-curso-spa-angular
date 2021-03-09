@@ -6,3 +6,5 @@ nodemon --watch backend backend/dist/server.js
 
 Para iniciar o backend - Antes da implementação da aula de segurança
 json-server db.json
+
+teste commit
